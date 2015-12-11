@@ -1,0 +1,8 @@
+build/*
+!build/README.txt
+src/*.o
+src/*.exe
+src/main/*.o
+src/main/*.exe
+src/main/*.dll
+mkmf.log
