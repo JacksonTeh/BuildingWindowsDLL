@@ -13,7 +13,6 @@
   :release_build: TRUE
   :test_file_prefix: test_
   :load_scripts: [scripts/dllexample.rb]
-  # :load_scripts: [scripts/maindll.rb]
 
 #:release_build:
 #  :output: MyApp.out
